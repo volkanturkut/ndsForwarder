@@ -1,6 +1,6 @@
 #pragma once
 
-#define VERSION "v1.4.6"
+#define VERSION "v1.4.7"
 //#define DEBUG
 
 #define FORWARDER_DIR std::string("sdmc:/3ds/forwarder")
